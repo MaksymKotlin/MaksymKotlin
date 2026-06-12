@@ -14,7 +14,7 @@
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
 
-## 💻 _Tech Stack:_
+##  _Tech Stack:_
 ![Gemini](https://img.shields.io/badge/Gemini-%3487FF2.svg?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
@@ -23,7 +23,6 @@
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![Ctrl+C/Ctrl+V](https://img.shields.io/badge/Ctrl_C_+_Ctrl_V-gray?style=for-the-badge&logo=copy-paste&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ## I'm better than you!
 > "While you spend five years learning C++, Rust, or assembly, I can write a prompt in five seconds. You stay up all night trying to write clean code, while I just write a prompt. While Rockstar spends hundreds of millions of dollars developing a game, I just write a prompt like "Make me a super-realistic GTA VII in a single HTML file."
